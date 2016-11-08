@@ -6,21 +6,7 @@ import json
 import requests
 import sys
 
-def load_credentials(path):
-  # load
-  with open(path) as credentials_file:
-    credentials = json.load(credentials_file)
-
-  # validate
-  if key not in credentials or secret not in credentials:
-    print('[ERR] Json file not valid')
-    sys.exit(1)
-
-  return credentials
-
-# keys in json file
-key = 'consumer_key'
-secret = 'consumer_secret'
+from auth import load_credentials, key, secret
 
 # path
 iput_path = './credentials/credentials.json'
