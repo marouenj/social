@@ -17,14 +17,14 @@ def load_queries(path):
 
   return queries
 
-def init_queries_output_file(queries, base):
+def init_queries_output_file(queries, data_path):
   for query in queries:
     oput = query[i] + '.json'
-    path = base + '/' + oput
+    path = data_path + '/' + oput
     if not os.path.exists(path):
       with open(path, 'w') as tweets_file:
-        tweets = {'since_id': '0', 'tweets': []}
-        json.dump(tweets, tweets_file)
+        tweets = {'since_id': '0', 'tweets': [], 'tweets_idx': []}
+        json.dump(tweets, tweets_file, sort_keys=True)
         tweets_file.close()
 
 # request params
