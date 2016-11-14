@@ -9,8 +9,8 @@ import sys
 from auth import load_credentials, key, secret
 
 # path
-iput_path = './credentials/credentials.json'
-oput_path = './credentials/access_token.json'
+iput_path = './2config/credentials.json'
+oput_path = './2config/access_token.json'
 
 # load
 credentials = load_credentials(iput_path)
