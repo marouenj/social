@@ -10,5 +10,5 @@ export TWITTERDIR=/vagrant/src/twitter
 # lib path
 ## twitter
 ```bash
-export PYTHONPATH=${PYTHONPATH}:/vagrant/src/1lib:/vagrant/src/twitter/1lib
+export PYTHONPATH=/vagrant/lib
 ```
