@@ -1,4 +1,4 @@
-import json, requests, sys
+import json, requests, sys, time
 
 def users_show(token, user_id):
   url = 'https://api.twitter.com/1.1/users/show.json'
@@ -7,9 +7,6 @@ def users_show(token, user_id):
 
   while True:
     r = requests.get(url, params=params, headers=headers)
-    if r,status_code == 403:
-      print('[WARN: ' + str(r.status_code) + '] ' + r.text)
-      continue
     if r.status_code == 429:
       print('[WARN: ' + str(r.status_code) + '] ' + r.text)
       time.sleep(120)
