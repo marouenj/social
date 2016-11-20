@@ -5,7 +5,7 @@ import people, tw_api, tw_auth
 
 access_token = tw_auth.load_access_token('./access_token.json')
 
-users = people.load('./people.json')
+users = people.load('./people.json.pretty')
 
 today = datetime.date.today()
 
