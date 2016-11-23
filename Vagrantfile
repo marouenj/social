@@ -11,6 +11,7 @@ sudo apt-get -y install \
 
 sudo pip3 install --upgrade pip
 sudo pip3 install jellyfish
+sudo pip3 install pyquery
 SCRIPT
 
 Vagrant.configure("2") do |default|
