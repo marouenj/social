@@ -1,12 +1,11 @@
-import json, requests, sys, time
+import json, requests, time
 
-def users_show(token, user_id):
-  url = 'https://api.twitter.com/1.1/users/show.json'
-  params = {'user_id': user_id, 'include_entities': 'true'}
-  headers= {'Authorization': 'Bearer ' + token}
+def user_media(token, user_id):
+  url = 'https://api.instagram.com/v1/users/' + user_id + '/media/recent/'
+  params = {'access_token': token, 'count':'10'}
 
   while True:
-    r = requests.get(url, params=params, headers=headers)
+    r = requests.get(url, params=params)
     if r.status_code == 429:
       print('[WARN: ' + str(r.status_code) + '] ' + r.text)
       time.sleep(120)

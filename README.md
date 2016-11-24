@@ -8,7 +8,6 @@ export TWITTERDIR=/vagrant/src/twitter
 ```
 
 # lib path
-## twitter
 ```bash
 export PYTHONPATH=/vagrant/lib
 ```

@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 
 import datetime
-import config, people, fsq_api
+import config, people, foursquare_api
 
-token = config.load_token('./token_foursquare.json')
+token = config.load_token('/vagrant/token/foursquare.json')
 
-users = people.load('./people.json')
+users = people.load('./people.json.pretty')
 
 today = str(datetime.date.today())
 
