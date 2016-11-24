@@ -1,10 +1,13 @@
 import json, requests, time
-from requests.exceptions import SSLError
+from requests.exceptions import ConnectionError, SSLError
 
 def twitter_get_request(user_id, url, params, headers):
   while True:
     try:
       r = requests.get(url, params=params, headers=headers)
+    except ConnectionError:
+      print('[WARN] Connection Error')
+      continue
     except SSLError:
       print('[WARN] SSL Error')
       continue
