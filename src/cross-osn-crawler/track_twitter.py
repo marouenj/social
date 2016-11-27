@@ -23,7 +23,6 @@ for user_id, user in users.items():
   since_id = user['twitter']['since_id']
 
   ids = twitter_api.user_tweets_id(token, user_id, since_id)
-  print('len ' + str(len(ids)))
 
   if '_activity' not in user['twitter']:
     user['twitter']['_activity'] = {}
