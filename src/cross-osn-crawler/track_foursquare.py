@@ -55,6 +55,16 @@ for k, user in users.items():
 
   remote_user = remote_user['response']['user']
 
+  tips = []
+
+  delta_tips_count = foursquare_api.parse_delta_tips_count(foursquare, remote_user)
+  if delta_tips_count > 0:
+    remote_tips = foursquare_api.user_tips(token, user_id, count)
+    if remote_tips is not None:
+      remote_tips = remote_tips['response']['list']['listItems']['items']
+      for tip in remote_tips:
+        tips.append(tip['id'])
+
   activity = {
     'bio':remote_user['bio'],
     'friends_count':remote_user['friends']['count'],
@@ -63,7 +73,8 @@ for k, user in users.items():
     'lists_count':remote_user['lists']['count'],
     'mayorships_count':remote_user['mayorships']['count'],
     'todo_count':foursquare_api.parse_todo_count(remote_user),
-    'venuelikes_count':foursquare_api.parse_venuelikes_count(remote_user)
+    'venuelikes_count':foursquare_api.parse_venuelikes_count(remote_user),
+    'tips':tips
   }
 
   foursquare['_activity'][today] = activity

@@ -1,5 +1,5 @@
 osn-data/
 osn-data\.tar\.gz
 *json
-\.people\.json\.pretty
+\.*pretty
 diff

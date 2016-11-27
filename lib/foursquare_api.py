@@ -33,9 +33,9 @@ def user_venuelikes(token, user_id):
   params = {'oauth_token': token, 'limit':'100', 'v':'20161116'}
   return get(url, params, user_id)
 
-def user_tips(token, user_id):
+def user_tips(token, user_id, count):
   url = 'https://api.foursquare.com/v2/lists/' + user_id + '/tips'
-  params = {'oauth_token': token, 'limit':'200', 'sort':'recent', 'v':'20161116'}
+  params = {'oauth_token': token, 'limit':count, 'sort':'recent', 'v':'20161116'}
   return get(url, params, user_id)
 
 # returns 404
@@ -61,3 +61,10 @@ def parse_venuelikes_count(user):
         if item['type'] == 'likes':
           return item['listItems']['count']
   return None
+
+def parse_delta_tips_count(user, remote_user):
+  if '_last_activity' in user:
+    last_tip_count = user['_activity'][user['_last_activity']]['tips_count']
+    curr_tip_count = remote_user['tips']['count']
+    return curr_tip_count - last_tip_count
+  return 0
