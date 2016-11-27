@@ -67,5 +67,6 @@ for k, user in users.items():
   }
 
   foursquare['_activity'][today] = activity
+  foursquare['_last_activity'] = today
 
 people.save(users, './people.json')
