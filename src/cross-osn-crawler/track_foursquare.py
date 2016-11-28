@@ -14,10 +14,6 @@ today = str(datetime.date.today())
 i = 0
 for k, user in users.items():
   i += 1
-
-  if i > 1:
-    break
-
   print(i)
   foursquare = user['foursquare']
   if 'id' not in foursquare:
@@ -59,7 +55,7 @@ for k, user in users.items():
 
   delta_tips_count = foursquare_api.parse_delta_tips_count(foursquare, remote_user)
   if delta_tips_count > 0:
-    remote_tips = foursquare_api.user_tips(token, user_id, count)
+    remote_tips = foursquare_api.user_tips(token, user_id, delta_tips_count)
     if remote_tips is not None:
       remote_tips = remote_tips['response']['list']['listItems']['items']
       for tip in remote_tips:
