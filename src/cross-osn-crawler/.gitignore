@@ -1,5 +1,5 @@
 osn-data/
 osn-data\.tar\.gz
+diff\.txt
 *json
-\.*pretty
-diff
+*\.json\.pretty\.backup
