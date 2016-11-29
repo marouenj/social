@@ -26,6 +26,12 @@ def user(token, user_id):
   headers= {'Authorization': 'Bearer ' + token}
   return twitter_get_request(user_id, url, params, headers)
 
+def tweet(token, tweet_id):
+  url = 'https://api.twitter.com/1.1/statuses/show.json'
+  params = {'id':tweet_id, 'trim_user':'true', 'include_entities':'true'}
+  headers= {'Authorization': 'Bearer ' + token}
+  return twitter_get_request(tweet_id, url, params, headers)
+
 def user_tweets(token, user_id, since_id):
   url = 'https://api.twitter.com/1.1/statuses/user_timeline.json'
   params = {'user_id':user_id,'trim_user':'true','exclude_replies':'true'}
