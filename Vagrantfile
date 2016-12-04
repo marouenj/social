@@ -21,6 +21,9 @@ Vagrant.configure("2") do |default|
 	# shell provisioning
 	default.vm.provision "shell", inline: $script
 
+	# shell provisioning
+	default.vm.provision "docker", images: ["mysql:5.7.16"]
+
 	default.vm.provider "virtualbox" do |vbox|
 		vbox.name = "social"
 		vbox.memory = 1024
