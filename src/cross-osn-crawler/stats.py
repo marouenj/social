@@ -8,6 +8,8 @@ import twitter_api
 
 token = config.load_token('/vagrant/token/twitter.json')
 
+local_tweets = tweets.load('./tweets.json')
+
 from_date = '2016-11-17'
 to_date = '2016-12-31'
 
@@ -50,7 +52,7 @@ def twitter(entity):
   statuses_count = history_twitter.statuses_count(activity)
   favourites_count = history_twitter.favourites_count(activity) 
   friends_count = history_twitter.friends_count(activity)
-  friends_since_count = history_twitter.friends_since_count(activity)
+#  friends_since_count = history_twitter.friends_since_count(activity)
 
   weekday = {}
   hour = {}
@@ -59,7 +61,6 @@ def twitter(entity):
     if 'tweets' not in metrics:
       continue
     for tweet_id in metrics['tweets']:
-      local_tweets = tweets.load('./tweets.json')
       tweet = None
       if tweet_id in local_tweets:
         tweet = local_tweets[tweet_id]
@@ -96,7 +97,7 @@ def twitter(entity):
     'count_statuses':statuses_count,
     'count_favourites':favourites_count,
     'count_friends':friends_count,
-    'count_friends_since':friends_since_count,
+#    'count_friends_since':friends_since_count,
     'histogram__weekday':weekday,
     'histogram__hour':hour,
     'histogram_weekday_hour':weekday_hour
@@ -122,7 +123,7 @@ def foursquare(entity):
     'count_tips':tips_count,
     'count_checkins':checkins_count,
     'count_friends':friends_count,
-    'count_friends_since':friends_since_count
+#    'count_friends_since':friends_since_count
   }
 
 persons = people.load('./people.json.pretty')
@@ -130,12 +131,12 @@ persons = people.load('./people.json.pretty')
 i = 0
 for id, person in persons.items():
   i += 1
-  if i > 5:
+  if i > 1:
     break
   print(i)
   stats[id] = {}
   twitter(person['twitter'])
   foursquare(person['foursquare'])
   
-with open('./stats_' + from_date + '_' + to_date + '.json', 'w') as file:
+with open('./stats.json', 'w') as file:
   json.dump(stats, file, sort_keys=True)
