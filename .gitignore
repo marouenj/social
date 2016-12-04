@@ -6,3 +6,4 @@ __pycache__/
 token/foursquare.json
 token/instagram.json
 token/twitter.json
+volatile/
