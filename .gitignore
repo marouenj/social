@@ -1,9 +1,3 @@
 \.vagrant/
-credentials\.json
-access_token\.json
-token*\.json
+*\.json
 __pycache__/
-token/foursquare.json
-token/instagram.json
-token/twitter.json
-volatile/

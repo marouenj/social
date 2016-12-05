@@ -1,0 +1,3 @@
+#/bin/bash
+
+python -m json.tool /vagrant/data/url_alternion.json /vagrant/data/url_alternion.json.pretty
