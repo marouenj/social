@@ -1,0 +1,83 @@
+{
+    "10449052": {
+        "fitbit": {
+            "_activity": {
+                "2016-12-05": {
+                    "aboutme": "Web developer. Hedonist. Gourmand. Roustabout. Wanderlust King. Philosopher. I build web experiences for the CA State Assembly and selected personal clients.",
+                    "distance-all": "5,681.31",
+                    "distance-best": "--",
+                    "floor-all": "7,232",
+                    "floor-best": "--",
+                    "height": "6\u2032 2\u2033",
+                    "joined": "S\u200ba\u200bc\u200br\u200ba\u200bm\u200be\u200bn\u200bt\u200bo\u200b, C\u200bA\u200b, \u7c73\u200b\u56fd",
+                    "location": "S\u200ba\u200bc\u200br\u200ba\u200bm\u200be\u200bn\u200bt\u200bo\u200b, C\u200bA\u200b, \u7c73\u200b\u56fd",
+                    "steps-all": "11,678,494",
+                    "steps-best": "--"
+                }
+            },
+            "url": "http://fitbit.com/user/22CK8B"
+        },
+        "flickr": {
+            "_activity": {
+                "2016-12-05": {
+                    "photos": []
+                }
+            },
+            "id": "39873962@N08"
+        }
+    },
+    "14098915": {
+        "flickr": {
+            "_activity": {
+                "2016-12-05": {
+                    "photos": []
+                }
+            },
+            "id": "39873962@N08",
+            "username": "martym"
+        }
+    },
+    "16059345": {
+        "flickr": {
+            "_activity": {
+                "2016-12-05": {
+                    "photos": []
+                }
+            },
+            "id": "39873962@N08",
+            "username": "gienapp"
+        }
+    },
+    "16983823": {
+        "flickr": {
+            "_activity": {
+                "2016-12-05": {
+                    "photos": []
+                }
+            },
+            "id": "39873962@N08",
+            "username": "justcherie"
+        }
+    },
+    "284867370": {
+        "flickr": {
+            "_activity": {
+                "2016-12-05": {
+                    "photos": []
+                }
+            },
+            "id": "39873962@N08",
+            "username": "nethindra"
+        }
+    },
+    "927240422": {
+        "flickr": {
+            "_activity": {
+                "2016-12-05": {
+                    "photos": []
+                }
+            },
+            "id": "118854884@N05"
+        }
+    }
+}

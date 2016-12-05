@@ -1,0 +1,1254 @@
+{
+    "since_id": "805692597586915328",
+    "tweets": [
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Dec 03 05:09:08 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "alternion.com/users/business\u2026",
+                        "expanded_url": "http://www.alternion.com/users/businesscoachau/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RBdc8sp29n"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 804915349929873408,
+            "id_str": "804915349929873408",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "und",
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "https://t.co/RBdc8sp29n",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Dec 02 12:01:54 +0000 2016",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "John Millar is the Business Coach Melbourne - and he has set up to give melbourne small business owners the tools they need to succeed in their business.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "business-coach.melbourne",
+                                "expanded_url": "http://business-coach.melbourne/",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/r7rW7aafko"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 0,
+                "follow_request_sent": null,
+                "followers_count": 0,
+                "following": null,
+                "friends_count": 0,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 804656834732703744,
+                "id_str": "804656834732703744",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "",
+                "name": "Business Coach Melbo",
+                "notifications": null,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/804914994672345088/IBm-Bd2A_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/804914994672345088/IBm-Bd2A_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "melbournecoach",
+                "statuses_count": 21,
+                "time_zone": "Pacific Time (US & Canada)",
+                "translator_type": "none",
+                "url": "https://t.co/r7rW7aafko",
+                "utc_offset": -28800,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Dec 02 16:28:42 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "lnkd.in/gBRMdik",
+                        "expanded_url": "https://lnkd.in/gBRMdik",
+                        "indices": [
+                            25,
+                            48
+                        ],
+                        "url": "https://t.co/fbSYDZHX26"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 804723979915116544,
+            "id_str": "804723979915116544",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "es",
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+            "text": "Lucio Alves on Alternion https://t.co/fbSYDZHX26",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Feb 24 21:11:27 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "ALGUNS AINDA ca\u00e7am MUITO AL\u00c9M DA FILOSOFIA SEGUNDO A QUAL NADA \u00c9 SAGRADO AT\u00c9 SER NOSSA PELE",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "luciolobo242.blogspot.com.br",
+                                "expanded_url": "http://luciolobo242.blogspot.com.br/",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/la3grjKaIN"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 23,
+                "follow_request_sent": null,
+                "followers_count": 50,
+                "following": null,
+                "friends_count": 274,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 21798202,
+                "id_str": "21798202",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "pt",
+                "listed_count": 0,
+                "location": "Brasil",
+                "name": "\u2623Superior\u2623: Lucio",
+                "notifications": null,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/21798202/1402236386",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/472565004500103168/YOsctJpk_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/472565004500103168/YOsctJpk_normal.jpeg",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "maguinetar",
+                "statuses_count": 12228,
+                "time_zone": "Brasilia",
+                "translator_type": "none",
+                "url": "https://t.co/la3grjKaIN",
+                "utc_offset": -7200,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Dec 02 16:28:18 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "alternion.com/users/LucioAlv\u2026",
+                        "expanded_url": "http://www.alternion.com/users/LucioAlves/",
+                        "indices": [
+                            25,
+                            48
+                        ],
+                        "url": "https://t.co/apTPTua4YN"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 133475863,
+                        "id_str": "133475863",
+                        "indices": [
+                            53,
+                            63
+                        ],
+                        "name": "Alternion",
+                        "screen_name": "Alternion"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 804723877897207812,
+            "id_str": "804723877897207812",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "es",
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Lucio Alves on Alternion https://t.co/apTPTua4YN via @alternion",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Feb 24 21:11:27 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "ALGUNS AINDA ca\u00e7am MUITO AL\u00c9M DA FILOSOFIA SEGUNDO A QUAL NADA \u00c9 SAGRADO AT\u00c9 SER NOSSA PELE",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "luciolobo242.blogspot.com.br",
+                                "expanded_url": "http://luciolobo242.blogspot.com.br/",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/la3grjKaIN"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 23,
+                "follow_request_sent": null,
+                "followers_count": 50,
+                "following": null,
+                "friends_count": 274,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 21798202,
+                "id_str": "21798202",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "pt",
+                "listed_count": 0,
+                "location": "Brasil",
+                "name": "\u2623Superior\u2623: Lucio",
+                "notifications": null,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/21798202/1402236386",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/472565004500103168/YOsctJpk_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/472565004500103168/YOsctJpk_normal.jpeg",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "maguinetar",
+                "statuses_count": 12228,
+                "time_zone": "Brasilia",
+                "translator_type": "none",
+                "url": "https://t.co/la3grjKaIN",
+                "utc_offset": -7200,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Dec 02 16:28:13 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "fb.me/1HClj4esP",
+                        "expanded_url": "http://fb.me/1HClj4esP",
+                        "indices": [
+                            25,
+                            48
+                        ],
+                        "url": "https://t.co/cOMNNnzllV"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 804723858771218434,
+            "id_str": "804723858771218434",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "es",
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+            "text": "Lucio Alves on Alternion https://t.co/cOMNNnzllV",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Feb 24 21:11:27 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "ALGUNS AINDA ca\u00e7am MUITO AL\u00c9M DA FILOSOFIA SEGUNDO A QUAL NADA \u00c9 SAGRADO AT\u00c9 SER NOSSA PELE",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "luciolobo242.blogspot.com.br",
+                                "expanded_url": "http://luciolobo242.blogspot.com.br/",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/la3grjKaIN"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 23,
+                "follow_request_sent": null,
+                "followers_count": 50,
+                "following": null,
+                "friends_count": 274,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 21798202,
+                "id_str": "21798202",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "pt",
+                "listed_count": 0,
+                "location": "Brasil",
+                "name": "\u2623Superior\u2623: Lucio",
+                "notifications": null,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/21798202/1402236386",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/472565004500103168/YOsctJpk_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/472565004500103168/YOsctJpk_normal.jpeg",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "maguinetar",
+                "statuses_count": 12228,
+                "time_zone": "Brasilia",
+                "translator_type": "none",
+                "url": "https://t.co/la3grjKaIN",
+                "utc_offset": -7200,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Dec 02 06:00:03 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            101,
+                            111
+                        ],
+                        "text": "educacion"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/QyUEGwOHAV",
+                        "expanded_url": "https://twitter.com/ramon3434/status/706466616729608192/photo/1",
+                        "id": 706466615634874368,
+                        "id_str": "706466615634874368",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cc3fpNaW0AArwI9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cc3fpNaW0AArwI9.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "medium": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "small": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "thumb": {
+                                "h": 136,
+                                "resize": "crop",
+                                "w": 136
+                            }
+                        },
+                        "source_status_id": 706466616729608192,
+                        "source_status_id_str": "706466616729608192",
+                        "source_user_id": 30223203,
+                        "source_user_id_str": "30223203",
+                        "type": "photo",
+                        "url": "https://t.co/QyUEGwOHAV"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "sco.lt/6fbghd",
+                        "expanded_url": "http://sco.lt/6fbghd",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "url": "https://t.co/gd3iVZDjT3"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/QyUEGwOHAV",
+                        "expanded_url": "https://twitter.com/ramon3434/status/706466616729608192/photo/1",
+                        "id": 706466615634874368,
+                        "id_str": "706466615634874368",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cc3fpNaW0AArwI9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cc3fpNaW0AArwI9.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "medium": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "small": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "thumb": {
+                                "h": 136,
+                                "resize": "crop",
+                                "w": 136
+                            }
+                        },
+                        "source_status_id": 706466616729608192,
+                        "source_status_id_str": "706466616729608192",
+                        "source_user_id": 30223203,
+                        "source_user_id_str": "30223203",
+                        "type": "photo",
+                        "url": "https://t.co/QyUEGwOHAV"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 804565776195866624,
+            "id_str": "804565776195866624",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "es",
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://www.botize.com\" rel=\"nofollow\">Botize</a>",
+            "text": "Alternion -  Toda la actividad de m\u00e1s de 220 redes sociales en un solo lugar https://t.co/gd3iVZDjT3 #educacion https://t.co/QyUEGwOHAV",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Apr 16 14:51:25 +0000 2015",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 41,
+                "follow_request_sent": null,
+                "followers_count": 1523,
+                "following": null,
+                "friends_count": 2,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 3172988195,
+                "id_str": "3172988195",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "es",
+                "listed_count": 549,
+                "location": "",
+                "name": "Planeta Educativo",
+                "notifications": null,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/589041982007304194/GX4mF8VA_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/589041982007304194/GX4mF8VA_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "PlanetEducativo",
+                "statuses_count": 103231,
+                "time_zone": "Europe/Madrid",
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": 3600,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Dec 01 07:06:39 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "alternion.com/users/StevenSm\u2026",
+                        "expanded_url": "http://www.alternion.com/users/StevenSmith/",
+                        "indices": [
+                            26,
+                            49
+                        ],
+                        "url": "https://t.co/i9gXWvAi5E"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 133475863,
+                        "id_str": "133475863",
+                        "indices": [
+                            54,
+                            64
+                        ],
+                        "name": "Alternion",
+                        "screen_name": "Alternion"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 804220145560190976,
+            "id_str": "804220145560190976",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Steven Smith on Alternion https://t.co/i9gXWvAi5E via @alternion",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Nov 30 08:37:46 +0000 2016",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Steven Andrew Smith is an entrepreneur and software developer with a passion for building quality software as effectively as possible.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 0,
+                "follow_request_sent": null,
+                "followers_count": 6,
+                "following": null,
+                "friends_count": 103,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 803880687816220672,
+                "id_str": "803880687816220672",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Kent, OH United States",
+                "name": "Steven Smith",
+                "notifications": null,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/803880687816220672/1480497722",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/803882651383779330/lgWgPaZc_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/803882651383779330/lgWgPaZc_normal.jpg",
+                "profile_link_color": "19CF86",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "StevenSmith__",
+                "statuses_count": 9,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Nov 30 05:45:32 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "ln.is/www.alternion.\u2026",
+                        "expanded_url": "http://ln.is/www.alternion.com/us/emOac",
+                        "indices": [
+                            34,
+                            57
+                        ],
+                        "url": "https://t.co/njppEUqk0N"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 803837347477471232,
+            "id_str": "803837347477471232",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "und",
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://linkis.com\" rel=\"nofollow\">Put your button on any page! </a>",
+            "text": "Reg Saddler Zaibatsu on Alternion https://t.co/njppEUqk0N via alternion RT zaibatsu",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Apr 05 03:42:59 +0000 2007",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Author & Creator of Fight Like a Grown Ass Woman! \ud83d\udc51 Inspiration Queen | Living Life Abundantly Motivator | BRCA1+ Breast Cancer Survivor\ud83d\udcab",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "MarendaTaylor.com",
+                                "expanded_url": "http://MarendaTaylor.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/0Z6UVGKfwZ"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 2652,
+                "follow_request_sent": null,
+                "followers_count": 34024,
+                "following": null,
+                "friends_count": 24105,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 3487621,
+                "id_str": "3487621",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 4098,
+                "location": "Compton, CA",
+                "name": "Marenda Taylor",
+                "notifications": null,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/152589516/twitter_Marenda.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/152589516/twitter_Marenda.jpg",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3487621/1477358974",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/781657066473607168/Rh61yusH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/781657066473607168/Rh61yusH_normal.jpg",
+                "profile_link_color": "F58EA8",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Marenda",
+                "statuses_count": 238304,
+                "time_zone": "Pacific Time (US & Canada)",
+                "translator_type": "none",
+                "url": "https://t.co/0Z6UVGKfwZ",
+                "utc_offset": -28800,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Nov 30 05:44:17 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "smq.tc/1ajuLGd",
+                        "expanded_url": "http://smq.tc/1ajuLGd",
+                        "indices": [
+                            34,
+                            57
+                        ],
+                        "url": "https://t.co/lipDIuzvbv"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 803837030300053504,
+            "id_str": "803837030300053504",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "und",
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "text": "Reg Saddler Zaibatsu on Alternion https://t.co/lipDIuzvbv via alternion via zaibatsu",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Feb 22 19:28:11 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "#DigitalMarketing #WebDesign #WebDevelopment #SEO #SMM #PPC #ecommerce #DigitalStrategy #Liverpool #SocialMedia Founded by @nadeemansary https://t.co/2TeqAQkZYI",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "on.fb.me/16NE9ic",
+                                "expanded_url": "http://on.fb.me/16NE9ic",
+                                "indices": [
+                                    137,
+                                    160
+                                ],
+                                "url": "https://t.co/2TeqAQkZYI"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "betterbrains.co.uk",
+                                "expanded_url": "http://www.betterbrains.co.uk",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/yT78A3AkCm"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 1135,
+                "follow_request_sent": null,
+                "followers_count": 2047,
+                "following": null,
+                "friends_count": 920,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1209567732,
+                "id_str": "1209567732",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2456,
+                "location": "Liverpool, England",
+                "name": "BetterBrains.co.uk",
+                "notifications": null,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209567732/1466512690",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/595861507327565824/I1gcTS1h_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/595861507327565824/I1gcTS1h_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "BetterBrainsUK",
+                "statuses_count": 37695,
+                "time_zone": "Islamabad",
+                "translator_type": "none",
+                "url": "http://t.co/yT78A3AkCm",
+                "utc_offset": 18000,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Nov 27 22:00:13 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            100,
+                            110
+                        ],
+                        "text": "Educacion"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/QyUEGwOHAV",
+                        "expanded_url": "https://twitter.com/ramon3434/status/706466616729608192/photo/1",
+                        "id": 706466615634874368,
+                        "id_str": "706466615634874368",
+                        "indices": [
+                            111,
+                            134
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cc3fpNaW0AArwI9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cc3fpNaW0AArwI9.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "medium": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "small": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "thumb": {
+                                "h": 136,
+                                "resize": "crop",
+                                "w": 136
+                            }
+                        },
+                        "source_status_id": 706466616729608192,
+                        "source_status_id_str": "706466616729608192",
+                        "source_user_id": 30223203,
+                        "source_user_id_str": "30223203",
+                        "type": "photo",
+                        "url": "https://t.co/QyUEGwOHAV"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "sco.lt/6fbghd",
+                        "expanded_url": "http://sco.lt/6fbghd",
+                        "indices": [
+                            76,
+                            99
+                        ],
+                        "url": "https://t.co/gd3iVZDjT3"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/QyUEGwOHAV",
+                        "expanded_url": "https://twitter.com/ramon3434/status/706466616729608192/photo/1",
+                        "id": 706466615634874368,
+                        "id_str": "706466615634874368",
+                        "indices": [
+                            111,
+                            134
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cc3fpNaW0AArwI9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cc3fpNaW0AArwI9.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "medium": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "small": {
+                                "h": 136,
+                                "resize": "fit",
+                                "w": 136
+                            },
+                            "thumb": {
+                                "h": 136,
+                                "resize": "crop",
+                                "w": 136
+                            }
+                        },
+                        "source_status_id": 706466616729608192,
+                        "source_status_id_str": "706466616729608192",
+                        "source_user_id": 30223203,
+                        "source_user_id_str": "30223203",
+                        "type": "photo",
+                        "url": "https://t.co/QyUEGwOHAV"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 802995467349094405,
+            "id_str": "802995467349094405",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "es",
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://www.botize.com\" rel=\"nofollow\">Botize</a>",
+            "text": "Alternion - Toda la actividad de m\u00e1s de 220 redes sociales en un solo lugar https://t.co/gd3iVZDjT3 #Educacion https://t.co/QyUEGwOHAV",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Apr 16 14:51:25 +0000 2015",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 41,
+                "follow_request_sent": null,
+                "followers_count": 1523,
+                "following": null,
+                "friends_count": 2,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 3172988195,
+                "id_str": "3172988195",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "es",
+                "listed_count": 549,
+                "location": "",
+                "name": "Planeta Educativo",
+                "notifications": null,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/589041982007304194/GX4mF8VA_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/589041982007304194/GX4mF8VA_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "PlanetEducativo",
+                "statuses_count": 103231,
+                "time_zone": "Europe/Madrid",
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": 3600,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sat Nov 26 07:16:15 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "alternion.com/users/steverhe\u2026",
+                        "expanded_url": "http://www.alternion.com/users/steverherbst/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AFwiBYloci"
+                    },
+                    {
+                        "display_url": "raptr.com/steverherbst/s\u2026",
+                        "expanded_url": "http://raptr.com/steverherbst/status/583936bf1dfa740d7e/x?type=tw_statusupdate",
+                        "indices": [
+                            24,
+                            47
+                        ],
+                        "url": "https://t.co/OU9uWdceeZ"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 802410623044681730,
+            "id_str": "802410623044681730",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "und",
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://raptr.com/\" rel=\"nofollow\">Raptr</a>",
+            "text": "https://t.co/AFwiBYloci https://t.co/OU9uWdceeZ",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Nov 25 04:50:34 +0000 2016",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "TubeMate YouTube Downloader is a splendid Android cum PC cum Mac App that not only helps in downloading videos from various sources including YouTube.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "jetcheats.com/tubemate-for-p\u2026",
+                                "expanded_url": "http://jetcheats.com/tubemate-for-pc-windows-10-8-1-8-7-latest/",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/hRlkUBcveK"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 0,
+                "follow_request_sent": null,
+                "followers_count": 0,
+                "following": null,
+                "friends_count": 30,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 802011572457480192,
+                "id_str": "802011572457480192",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "United States",
+                "name": "Steve R. Herbst",
+                "notifications": null,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/802011572457480192/1480057775",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/802046451744313344/kIFB3ZUX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/802046451744313344/kIFB3ZUX_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "steverherbst",
+                "statuses_count": 35,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/hRlkUBcveK",
+                "utc_offset": null,
+                "verified": false
+            }
+        }
+    ],
+    "tweets_idx": [
+        "804915349929873408",
+        "804723979915116544",
+        "804723877897207812",
+        "804723858771218434",
+        "804565776195866624",
+        "804220145560190976",
+        "803837347477471232",
+        "803837030300053504",
+        "802995467349094405",
+        "802410623044681730"
+    ]
+}
