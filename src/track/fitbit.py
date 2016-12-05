@@ -49,10 +49,10 @@ for twitter_id, person in persons.items():
     'aboutme':aboutme.text(),
     'steps-all':lifetime_steps('span.value').text(),
     'floor-all':lifetime_floor('span.value').text(),
-    'distance-all':lifetime_distance('span.value').text(),
-    'steps-best':best_steps('span.value').text(),
-    'floor-best':best_floor('span.value').text(),
-    'distance-best':best_distance('span.value').text()
+    'distance-all':lifetime_distance('span.value').text()
+    #'steps-best':best_steps('span.value').text(),
+    #'floor-best':best_floor('span.value').text(),
+    #'distance-best':best_distance('span.value').text()
   }
 
 people.save(persons, '/vagrant/data/people.json')
