@@ -44,6 +44,11 @@ def user_tastes(token, user_id):
   params = {'oauth_token': token, 'v':'20161116'}
   return get(url, params, user_id)
 
+def tip(token, tip_id):
+  url = 'https://api.foursquare.com/v2/tips/' + tip_id
+  params = {'oauth_token': token, 'v':'20161116'}
+  return get(url, params, tip_id)
+
 def parse_todo_count(user):
   groups = user['lists']['groups']
   for group in groups:

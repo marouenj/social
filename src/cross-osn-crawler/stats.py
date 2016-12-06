@@ -1,16 +1,17 @@
 #!/usr/bin/python3
 
-import json, re
+import datetime, json, re
 
-import config, people, tweets
+import config, people, tweets, tips
 import history, history_foursquare, history_twitter
-import twitter_api
+import foursquare_api, twitter_api
 
 token = config.load_token('/vagrant/token/twitter.json')
+token_foursquare = config.load_token('/vagrant/token/foursquare.json')
 
 local_tweets = tweets.load('./tweets.json')
 
-from_date = '2016-11-17'
+from_date = '2016-01-01'
 to_date = '2016-12-31'
 
 weekdays = {
@@ -117,22 +118,67 @@ def foursquare(entity):
   friends_count = history_foursquare.friends_count(activity)
   friends_since_count = history_foursquare.friends_since_count(activity)
 
+  weekday = {}
+  hour = {}
+  weekday_hour = {}
+  for day, metrics in activity.items():
+    if 'tips' not in metrics:
+      continue
+    for tip_id in metrics['tips']:
+      if tip_id[0] == 't':
+        tip_id = tip_id[1:]
+      print(tip_id)
+      local_tips = tips.load('./tips.json')
+      tip = None
+      if tip_id in local_tips:
+        tip = local_tips[tip_id]
+      elif 't' + tip_id in local_tips:
+        tip = local_tips['t'+tip_id]
+      else:
+        remote_tip = foursquare_api.tip(token_foursquare, tip_id)
+        if remote_tip is None:
+          continue
+        tip = remote_tip
+        local_tips[tip_id] = remote_tip
+        tips.save(local_tips, './tips.json')
+      timestamp = tip['response']['tip']['createdAt']
+      date = datetime.datetime.fromtimestamp(int(timestamp))
+      Ymd = date.strftime('%Y-%m-%d')
+      print(Ymd)
+      if Ymd >= from_date and Ymd <= to_date:
+        a = date.strftime('%a')
+        H = date.strftime('%H')
+        # weekday
+        if weekdays[a] not in weekday:
+          weekday[weekdays[a]] = 1
+        else:
+          weekday[weekdays[a]] += 1
+        # hour
+        if H not in hour:
+          hour[H] = 1
+        else:
+          hour[H] += 1
+        # weekday/hour
+        if weekdays[a] + '-' + H not in weekday_hour:
+          weekday_hour[weekdays[a] + '-' + H] = 1
+        else:
+          weekday_hour[weekdays[a] + '-' + H] += 1
+
   stats[id]['foursquare'] = {
     '_from':_from,
     '_to':_to,
     'count_tips':tips_count,
     'count_checkins':checkins_count,
     'count_friends':friends_count,
-#    'count_friends_since':friends_since_count
+    'count_friends_since':friends_since_count,
+    'histogram__weekday':weekday,
+    'histogram__hour':hour,
+    'histogram_weekday_hour':weekday_hour
   }
 
 persons = people.load('./people.json.pretty')
 
-i = 0
 for id, person in persons.items():
-  i += 1
-  if i > 1:
-    break
   print(i)
   stats[id] = {}
   twitter(person['twitter'])
