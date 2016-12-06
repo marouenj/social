@@ -4,7 +4,7 @@ import datetime
 today = str(datetime.date.today())
 
 import people
-persons = people.load('/vagrant/data/people.json')
+persons = people.load('/vagrant/data/people.json.pretty')
 
 import json, requests
 from pyquery import PyQuery

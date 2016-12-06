@@ -1,0 +1,3 @@
+#/bin/bash
+
+python -m json.tool /vagrant/data/stats.json /vagrant/data/stats.json.pretty

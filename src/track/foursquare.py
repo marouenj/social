@@ -7,7 +7,7 @@ import config, people, foursquare_api
 
 token = config.load_token('/vagrant/token/foursquare.json')
 
-users = people.load('./people.json.pretty')
+users = people.load('/vagrant/data/people.json.pretty')
 
 today = str(datetime.date.today())
 
@@ -70,10 +70,12 @@ for k, user in users.items():
     'mayorships_count':remote_user['mayorships']['count'],
     'todo_count':foursquare_api.parse_todo_count(remote_user),
     'venuelikes_count':foursquare_api.parse_venuelikes_count(remote_user),
-    'tips':tips
+    'tips':tips,
+    'photo':remote_user['photo'],
+    'home_city':remote_user['homeCity']
   }
 
   foursquare['_activity'][today] = activity
   foursquare['_last_activity'] = today
 
-people.save(users, './people.json')
+people.save(users, '/vagrant/data/people.json')

@@ -1,0 +1,1971 @@
+{
+    "803814013759062016": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Nov 30 04:12:49 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aewzhyp",
+                    "expanded_url": "http://rnkpr.com/aewzhyp",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/nCEwXjE6Dk"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 803814013759062016,
+        "id_str": "803814013759062016",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 2.13 mi walk with @Runkeeper. Check it out! https://t.co/nCEwXjE6Dk #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "803828470845493249": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Nov 30 05:10:16 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 17424053,
+                    "id_str": "17424053",
+                    "indices": [
+                        70,
+                        77
+                    ],
+                    "name": "Fitbit",
+                    "screen_name": "fitbit"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 803828470845493249,
+        "id_str": "803828470845493249",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "Step goal for November 29, 2016 achieved! 15203 total steps today via @Fitbit.",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "804133023377604612": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 01 01:20:27 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "fb.me/82ityF6RP",
+                    "expanded_url": "http://fb.me/82ityF6RP",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "url": "https://t.co/d0GkQuevhJ"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 804133023377604612,
+        "id_str": "804133023377604612",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "text": "attending California Hall of Fame Red Carpet Viewing at California Museum https://t.co/d0GkQuevhJ",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "804545037593874432": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 02 04:37:39 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aexfnze",
+                    "expanded_url": "http://rnkpr.com/aexfnze",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/QthneFrcWW"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 804545037593874432,
+        "id_str": "804545037593874432",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 0.70 mi walk with @Runkeeper. Check it out! https://t.co/QthneFrcWW #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "804719038840631297": {
+        "contributors": null,
+        "coordinates": {
+            "coordinates": [
+                -121.48538073,
+                38.58411357
+            ],
+            "type": "Point"
+        },
+        "created_at": "Fri Dec 02 16:09:04 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "swarmapp.com/c/3MmKgeXPCv0",
+                    "expanded_url": "https://www.swarmapp.com/c/3MmKgeXPCv0",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "url": "https://t.co/rUnGZy17gO"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": {
+            "coordinates": [
+                38.58411357,
+                -121.48538073
+            ],
+            "type": "Point"
+        },
+        "id": 804719038840631297,
+        "id_str": "804719038840631297",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -121.576613,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.43792
+                        ],
+                        [
+                            -121.362715,
+                            38.6855236
+                        ],
+                        [
+                            -121.576613,
+                            38.6855236
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Sacramento, CA",
+            "id": "b71fac2ee9792cbe",
+            "name": "Sacramento",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json"
+        },
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+        "text": "I'm at Shine - Coffee | Art | Music in Sacramento, CA https://t.co/rUnGZy17gO",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "804772845922435072": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 02 19:42:53 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aexkih5",
+                    "expanded_url": "http://rnkpr.com/aexkih5",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/XqDAKa8cV4"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 804772845922435072,
+        "id_str": "804772845922435072",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 1.03 mi walk with @Runkeeper. Check it out! https://t.co/XqDAKa8cV4 #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805158808435720192": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 03 21:16:33 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aextv15",
+                    "expanded_url": "http://rnkpr.com/aextv15",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/am5NdoscrO"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805158808435720192,
+        "id_str": "805158808435720192",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 0.72 mi walk with @Runkeeper. Check it out! https://t.co/am5NdoscrO #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805214704654225408": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 00:58:40 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 17424053,
+                    "id_str": "17424053",
+                    "indices": [
+                        69,
+                        76
+                    ],
+                    "name": "Fitbit",
+                    "screen_name": "fitbit"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805214704654225408,
+        "id_str": "805214704654225408",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "Step goal for December 3, 2016 achieved! 10207 total steps today via @Fitbit.",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805542791313059841": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 22:42:22 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aey4d32",
+                    "expanded_url": "http://rnkpr.com/aey4d32",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/RTq2YepXkc"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805542791313059841,
+        "id_str": "805542791313059841",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 0.84 mi walk with @Runkeeper. Check it out! https://t.co/RTq2YepXkc #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805813755233718272": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 05 16:39:05 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        96,
+                        104
+                    ],
+                    "text": "GRAMMYs"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 38705128,
+                    "id_str": "38705128",
+                    "indices": [
+                        3,
+                        11
+                    ],
+                    "name": "Civilization VI",
+                    "screen_name": "CivGame"
+                },
+                {
+                    "id": 14415105,
+                    "id_str": "14415105",
+                    "indices": [
+                        31,
+                        46
+                    ],
+                    "name": "Christopher Tin",
+                    "screen_name": "christophertin"
+                },
+                {
+                    "id": 17243213,
+                    "id_str": "17243213",
+                    "indices": [
+                        79,
+                        93
+                    ],
+                    "name": "Recording Academy",
+                    "screen_name": "RecordingAcad"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805813755233718272,
+        "id_str": "805813755233718272",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 42,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 05 16:33:15 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            83,
+                            91
+                        ],
+                        "text": "GRAMMYs"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/8\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/805812290150756353",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/hl0a0egbSV"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 14415105,
+                        "id_str": "14415105",
+                        "indices": [
+                            18,
+                            33
+                        ],
+                        "name": "Christopher Tin",
+                        "screen_name": "christophertin"
+                    },
+                    {
+                        "id": 17243213,
+                        "id_str": "17243213",
+                        "indices": [
+                            66,
+                            80
+                        ],
+                        "name": "Recording Academy",
+                        "screen_name": "RecordingAcad"
+                    }
+                ]
+            },
+            "favorite_count": 88,
+            "favorited": false,
+            "geo": null,
+            "id": 805812290150756353,
+            "id_str": "805812290150756353",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 42,
+            "retweeted": false,
+            "source": "<a href=\"http://percolate.com\" rel=\"nofollow\">Percolate</a>",
+            "text": "6 years ago today @ChristopherTin's \"Baba Yetu\" was nominated for @RecordingAcad's #GRAMMYs. See it performed live:\u2026 https://t.co/hl0a0egbSV",
+            "truncated": true,
+            "user": {
+                "id": 38705128,
+                "id_str": "38705128"
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @CivGame: 6 years ago today @ChristopherTin's \"Baba Yetu\" was nominated for @RecordingAcad's #GRAMMYs. See it performed live: https://t.\u2026",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805830291784810496": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 05 17:44:47 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/MrChrisEllis/s\u2026",
+                    "expanded_url": "https://twitter.com/MrChrisEllis/status/805779712819818496",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "url": "https://t.co/Kv6TCFRay6"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1469101279,
+                    "id_str": "1469101279",
+                    "indices": [
+                        3,
+                        12
+                    ],
+                    "name": "Andreas",
+                    "screen_name": "aantonop"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805830291784810496,
+        "id_str": "805830291784810496",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "quoted_status_id": 805779712819818496,
+        "quoted_status_id_str": "805779712819818496",
+        "retweet_count": 42,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 05 17:44:37 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/MrChrisEllis/s\u2026",
+                        "expanded_url": "https://twitter.com/MrChrisEllis/status/805779712819818496",
+                        "indices": [
+                            99,
+                            122
+                        ],
+                        "url": "https://t.co/Kv6TCFRay6"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 66,
+            "favorited": false,
+            "geo": null,
+            "id": 805830246498992132,
+            "id_str": "805830246498992132",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "quoted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Mon Dec 05 14:23:48 +0000 2016",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/8\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/805779712819818496",
+                            "indices": [
+                                106,
+                                129
+                            ],
+                            "url": "https://t.co/aw5oAwjUx8"
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id": 143053926,
+                            "id_str": "143053926",
+                            "indices": [
+                                46,
+                                60
+                            ],
+                            "name": "Gavin Andresen",
+                            "screen_name": "gavinandresen"
+                        },
+                        {
+                            "id": 13334762,
+                            "id_str": "13334762",
+                            "indices": [
+                                77,
+                                84
+                            ],
+                            "name": "GitHub",
+                            "screen_name": "github"
+                        }
+                    ]
+                },
+                "favorite_count": 28,
+                "favorited": false,
+                "geo": null,
+                "id": 805779712819818496,
+                "id_str": "805779712819818496",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "place": null,
+                "possibly_sensitive": false,
+                "possibly_sensitive_appealable": false,
+                "retweet_count": 20,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "Greg Maxwell gets suspended from Reddit, will @gavinandresen be suspended by @Github for doxing himself?\u2026 https://t.co/aw5oAwjUx8",
+                "truncated": true,
+                "user": {
+                    "id": 295049967,
+                    "id_str": "295049967"
+                }
+            },
+            "quoted_status_id": 805779712819818496,
+            "quoted_status_id_str": "805779712819818496",
+            "retweet_count": 42,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "Seriously,  reddit is completely out of control. Imploding under the trolls and abusive moderators https://t.co/Kv6TCFRay6",
+            "truncated": false,
+            "user": {
+                "id": 1469101279,
+                "id_str": "1469101279"
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @aantonop: Seriously,  reddit is completely out of control. Imploding under the trolls and abusive moderators https://t.co/Kv6TCFRay6",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805843768653922304": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 05 18:38:20 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805843768653922304,
+        "id_str": "805843768653922304",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "text": "No content is worth turning off my Adblocker.",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805848331184390145": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 05 18:56:28 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aeyaq55",
+                    "expanded_url": "http://rnkpr.com/aeyaq55",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/OLFjgZmIIX"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805848331184390145,
+        "id_str": "805848331184390145",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 0.98 mi walk with @Runkeeper. Check it out! https://t.co/OLFjgZmIIX #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805873085404459008": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 05 20:34:50 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "fb.me/7Wfn1LEsR",
+                    "expanded_url": "http://fb.me/7Wfn1LEsR",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "url": "https://t.co/uHsiDeELgq"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805873085404459008,
+        "id_str": "805873085404459008",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "und",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "text": "https://t.co/uHsiDeELgq",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805898802632589312": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 05 22:17:02 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/fcKK84xIPI",
+                    "expanded_url": "https://twitter.com/feelickss/status/805812382199152640/video/1",
+                    "id": 805811385514991617,
+                    "id_str": "805811385514991617",
+                    "indices": [
+                        52,
+                        75
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/805811385514991617/pu/img/_Y9VudV_pWSVu-ht.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/805811385514991617/pu/img/_Y9VudV_pWSVu-ht.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 360,
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "medium": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 805812382199152640,
+                    "source_status_id_str": "805812382199152640",
+                    "source_user_id": 228286746,
+                    "source_user_id_str": "228286746",
+                    "type": "photo",
+                    "url": "https://t.co/fcKK84xIPI"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 228286746,
+                    "id_str": "228286746",
+                    "indices": [
+                        3,
+                        13
+                    ],
+                    "name": "felixb",
+                    "screen_name": "feelickss"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false,
+                        "source_user": {
+                            "contributors_enabled": false,
+                            "created_at": "Sun Dec 19 08:15:28 +0000 2010",
+                            "default_profile": false,
+                            "default_profile_image": false,
+                            "description": "Felix B ; the sheep that refuses to be counted ; the chicken who crossed the road when no one was looking ; the cat who survived curiosity .",
+                            "entities": {
+                                "description": {
+                                    "urls": []
+                                },
+                                "url": {
+                                    "urls": [
+                                        {
+                                            "display_url": "nanacastro.com",
+                                            "expanded_url": "http://www.nanacastro.com",
+                                            "indices": [
+                                                0,
+                                                23
+                                            ],
+                                            "url": "https://t.co/CcepUhBVTw"
+                                        }
+                                    ]
+                                }
+                            },
+                            "favourites_count": 811,
+                            "follow_request_sent": null,
+                            "followers_count": 2666,
+                            "following": null,
+                            "friends_count": 986,
+                            "geo_enabled": false,
+                            "has_extended_profile": true,
+                            "id": 228286746,
+                            "id_str": "228286746",
+                            "is_translation_enabled": false,
+                            "is_translator": false,
+                            "lang": "en",
+                            "listed_count": 36,
+                            "location": "New York City",
+                            "name": "felixb",
+                            "notifications": null,
+                            "profile_background_color": "080006",
+                            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/183156217/felix_the_cat_love.jpg",
+                            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/183156217/felix_the_cat_love.jpg",
+                            "profile_background_tile": true,
+                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/228286746/1456279305",
+                            "profile_image_url": "http://pbs.twimg.com/profile_images/702312071447355394/YpD0kn3x_normal.jpg",
+                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702312071447355394/YpD0kn3x_normal.jpg",
+                            "profile_link_color": "14CC30",
+                            "profile_sidebar_border_color": "FFFFFF",
+                            "profile_sidebar_fill_color": "1970B3",
+                            "profile_text_color": "DBDB11",
+                            "profile_use_background_image": true,
+                            "protected": false,
+                            "screen_name": "feelickss",
+                            "statuses_count": 104400,
+                            "time_zone": "Eastern Time (US & Canada)",
+                            "translator_type": "none",
+                            "url": "https://t.co/CcepUhBVTw",
+                            "utc_offset": -18000,
+                            "verified": false
+                        }
+                    },
+                    "display_url": "pic.twitter.com/fcKK84xIPI",
+                    "expanded_url": "https://twitter.com/feelickss/status/805812382199152640/video/1",
+                    "id": 805811385514991617,
+                    "id_str": "805811385514991617",
+                    "indices": [
+                        52,
+                        75
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/805811385514991617/pu/img/_Y9VudV_pWSVu-ht.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/805811385514991617/pu/img/_Y9VudV_pWSVu-ht.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 360,
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "medium": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 805812382199152640,
+                    "source_status_id_str": "805812382199152640",
+                    "source_user_id": 228286746,
+                    "source_user_id_str": "228286746",
+                    "type": "video",
+                    "url": "https://t.co/fcKK84xIPI",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 109171,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/805811385514991617/pu/vid/640x360/MuBbZwOevbvdHRSe.mp4"
+                            },
+                            {
+                                "bitrate": 320000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/805811385514991617/pu/vid/320x180/ICK693ml7QuMmxQ1.mp4"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/805811385514991617/pu/pl/1O5gQoiEbOwvGoht.m3u8"
+                            },
+                            {
+                                "content_type": "application/dash+xml",
+                                "url": "https://video.twimg.com/ext_tw_video/805811385514991617/pu/pl/1O5gQoiEbOwvGoht.mpd"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805898802632589312,
+        "id_str": "805898802632589312",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 22759,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Mon Dec 05 16:33:37 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/fcKK84xIPI",
+                        "expanded_url": "https://twitter.com/feelickss/status/805812382199152640/video/1",
+                        "id": 805811385514991617,
+                        "id_str": "805811385514991617",
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/805811385514991617/pu/img/_Y9VudV_pWSVu-ht.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/805811385514991617/pu/img/_Y9VudV_pWSVu-ht.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 360,
+                                "resize": "fit",
+                                "w": 640
+                            },
+                            "medium": {
+                                "h": 338,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 191,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/fcKK84xIPI"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "display_url": "pic.twitter.com/fcKK84xIPI",
+                        "expanded_url": "https://twitter.com/feelickss/status/805812382199152640/video/1",
+                        "id": 805811385514991617,
+                        "id_str": "805811385514991617",
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/805811385514991617/pu/img/_Y9VudV_pWSVu-ht.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/805811385514991617/pu/img/_Y9VudV_pWSVu-ht.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 360,
+                                "resize": "fit",
+                                "w": 640
+                            },
+                            "medium": {
+                                "h": 338,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 191,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "video",
+                        "url": "https://t.co/fcKK84xIPI",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 109171,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/805811385514991617/pu/vid/640x360/MuBbZwOevbvdHRSe.mp4"
+                                },
+                                {
+                                    "bitrate": 320000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/805811385514991617/pu/vid/320x180/ICK693ml7QuMmxQ1.mp4"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/805811385514991617/pu/pl/1O5gQoiEbOwvGoht.m3u8"
+                                },
+                                {
+                                    "content_type": "application/dash+xml",
+                                    "url": "https://video.twimg.com/ext_tw_video/805811385514991617/pu/pl/1O5gQoiEbOwvGoht.mpd"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 27907,
+            "favorited": false,
+            "geo": null,
+            "id": 805812382199152640,
+            "id_str": "805812382199152640",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "retweet_count": 22759,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Amazon just changed the entire game. https://t.co/fcKK84xIPI",
+            "truncated": false,
+            "user": {
+                "id": 228286746,
+                "id_str": "228286746"
+            }
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "RT @feelickss: Amazon just changed the entire game. https://t.co/fcKK84xIPI",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805927558298664960": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 00:11:17 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aeyczec",
+                    "expanded_url": "http://rnkpr.com/aeyczec",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/UEDB2Be7Jj"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805927558298664960,
+        "id_str": "805927558298664960",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 0.70 mi walk with @Runkeeper. Check it out! https://t.co/UEDB2Be7Jj #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805934910569476097": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 00:40:30 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "fb.me/7oyqsLpI0",
+                    "expanded_url": "http://fb.me/7oyqsLpI0",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "url": "https://t.co/8E5VpURrmj"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 805934910569476097,
+        "id_str": "805934910569476097",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "text": "California lawmakers to Trump: \u2018if you want to get to (immigrants), you have to go through us\u2019 https://t.co/8E5VpURrmj",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805961905701527552": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 02:27:47 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 17424053,
+                    "id_str": "17424053",
+                    "indices": [
+                        69,
+                        76
+                    ],
+                    "name": "Fitbit",
+                    "screen_name": "fitbit"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805961905701527552,
+        "id_str": "805961905701527552",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "Step goal for December 5, 2016 achieved! 10200 total steps today via @Fitbit.",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805965408436125697": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 02:41:42 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aeydnk8",
+                    "expanded_url": "http://rnkpr.com/aeydnk8",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/4Yj5EyzNYv"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805965408436125697,
+        "id_str": "805965408436125697",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 0.48 mi walk with @Runkeeper. Check it out! https://t.co/4Yj5EyzNYv #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "805971984945278976": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 03:07:50 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/8\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/805971984945278976",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/0X6QNDcJUx"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 141378377,
+                    "id_str": "141378377",
+                    "indices": [
+                        11,
+                        27
+                    ],
+                    "name": "Kaiser Permanente",
+                    "screen_name": "KPMemberService"
+                },
+                {
+                    "id": 104246980,
+                    "id_str": "104246980",
+                    "indices": [
+                        32,
+                        41
+                    ],
+                    "name": "KPNorthernCal",
+                    "screen_name": "kpnorcal"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805971984945278976,
+        "id_str": "805971984945278976",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "Looks like @KPMemberService and @kpnorcal are editorializing about the election. I previously trusted my healthcare\u2026 https://t.co/0X6QNDcJUx",
+        "truncated": true,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "806163646048940033": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 15:49:25 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "fb.me/VksjHZ1J",
+                    "expanded_url": "http://fb.me/VksjHZ1J",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "url": "https://t.co/Y5RSq2gb4T"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 806163646048940033,
+        "id_str": "806163646048940033",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "und",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "text": "https://t.co/Y5RSq2gb4T",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "806192997989761025": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 17:46:03 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aeyiwst",
+                    "expanded_url": "http://rnkpr.com/aeyiwst",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/g0GtNdmQY5"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 806192997989761025,
+        "id_str": "806192997989761025",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 0.64 mi walk with @Runkeeper. Check it out! https://t.co/g0GtNdmQY5 #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "806222387762954240": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 19:42:50 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "fb.me/10MxaxoWI",
+                    "expanded_url": "http://fb.me/10MxaxoWI",
+                    "indices": [
+                        33,
+                        56
+                    ],
+                    "url": "https://t.co/j7s6YFlFmj"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 806222387762954240,
+        "id_str": "806222387762954240",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "text": "Burning Man 2017: Radical Ritual https://t.co/j7s6YFlFmj",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "806230581319176192": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 20:15:24 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        95
+                    ],
+                    "text": "Runkeeper"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "rnkpr.com/aeyk1rx",
+                    "expanded_url": "http://rnkpr.com/aeyk1rx",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/yQaxihMY35"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15445811,
+                    "id_str": "15445811",
+                    "indices": [
+                        35,
+                        45
+                    ],
+                    "name": "Runkeeper",
+                    "screen_name": "Runkeeper"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 806230581319176192,
+        "id_str": "806230581319176192",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+        "text": "Just completed a 1.55 mi walk with @Runkeeper. Check it out! https://t.co/yQaxihMY35 #Runkeeper",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "806234866530525184": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 20:32:25 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "fb.me/1AMoRoBp3",
+                    "expanded_url": "http://fb.me/1AMoRoBp3",
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "url": "https://t.co/C78oLRoslg"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 5644962,
+                    "id_str": "5644962",
+                    "indices": [
+                        13,
+                        24
+                    ],
+                    "name": "Burning Man",
+                    "screen_name": "burningman"
+                }
+            ]
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 806234866530525184,
+        "id_str": "806234866530525184",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "text": "This will be @burningman 2017 https://t.co/C78oLRoslg",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    },
+    "806272446903029760": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 06 23:01:45 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 17424053,
+                    "id_str": "17424053",
+                    "indices": [
+                        69,
+                        76
+                    ],
+                    "name": "Fitbit",
+                    "screen_name": "fitbit"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 806272446903029760,
+        "id_str": "806272446903029760",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "Step goal for December 6, 2016 achieved! 10060 total steps today via @Fitbit.",
+        "truncated": false,
+        "user": {
+            "id": 10449052,
+            "id_str": "10449052"
+        }
+    }
+}

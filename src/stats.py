@@ -3,13 +3,14 @@
 import datetime, json, re
 
 import config, people, tweets, tips
-import history, history_foursquare, history_twitter
+import history, history_fitbit, history_foursquare, history_twitter
 import foursquare_api, twitter_api
 
 token = config.load_token('/vagrant/token/twitter.json')
 token_foursquare = config.load_token('/vagrant/token/foursquare.json')
 
-local_tweets = tweets.load('./tweets.json')
+local_tweets = tweets.load('/vagrant/data/tweets.json.pretty')
+local_tips = tips.load('/vagrant/data/tips.json.pretty')
 
 from_date = '2016-01-01'
 to_date = '2016-12-31'
@@ -53,6 +54,14 @@ def twitter(entity):
   statuses_count = history_twitter.statuses_count(activity)
   favourites_count = history_twitter.favourites_count(activity) 
   friends_count = history_twitter.friends_count(activity)
+
+  photos = history_twitter.photos(activity)
+  if '_' not in stats[id]:
+    stats[id]['_'] = {}
+  if 'photos' not in stats[id]['_']:
+    stats[id]['_']['photos'] = []
+  for photo, ignore in photos.items():
+    stats[id]['_']['photos'].append(photo)
 #  friends_since_count = history_twitter.friends_since_count(activity)
 
   weekday = {}
@@ -71,7 +80,7 @@ def twitter(entity):
           continue
         tweet = remote_tweet
         local_tweets[tweet_id] = remote_tweet
-        tweets.save(local_tweets, './tweets.json')
+        tweets.save(local_tweets, '/vagrant/data/tweets.json')
       #'Sun Sep 11 02:49:04 +0000 2016'
       m = re.search('^(.{3}) (.{3}) (.{2}) (.{2}):(.{2}):(.{2}) (.{5}) (.{4})$', tweet['created_at'])
       date = m.group(8) + '-' + months[m.group(2)] + '-' + m.group(3)
@@ -118,6 +127,14 @@ def foursquare(entity):
   friends_count = history_foursquare.friends_count(activity)
   friends_since_count = history_foursquare.friends_since_count(activity)
 
+  photos = history_foursquare.photos(activity)
+  if '_' not in stats[id]:
+    stats[id]['_'] = {}
+  if 'photos' not in stats[id]['_']:
+    stats[id]['_']['photos'] = []
+  for photo, ignore in photos.items():
+    stats[id]['_']['photos'].append(photo)
+
   weekday = {}
   hour = {}
   weekday_hour = {}
@@ -128,7 +145,6 @@ def foursquare(entity):
       if tip_id[0] == 't':
         tip_id = tip_id[1:]
       print(tip_id)
-      local_tips = tips.load('./tips.json')
       tip = None
       if tip_id in local_tips:
         tip = local_tips[tip_id]
@@ -140,7 +156,7 @@ def foursquare(entity):
           continue
         tip = remote_tip
         local_tips[tip_id] = remote_tip
-        tips.save(local_tips, './tips.json')
+        tips.save(local_tips, '/vagrant/data/tips.json')
       timestamp = tip['response']['tip']['createdAt']
       date = datetime.datetime.fromtimestamp(int(timestamp))
       Ymd = date.strftime('%Y-%m-%d')
@@ -176,13 +192,52 @@ def foursquare(entity):
     'histogram_weekday_hour':weekday_hour
   }
 
-persons = people.load('./people.json.pretty')
+def fitbit(entity):
+  if '_activity' not in entity:
+    return
+  activity = history.matching_days(entity['_activity'], from_date, to_date)
+  if len(activity) == 0:
+    return
+
+  _from = history.first(activity)
+  _to = history.last(activity)
+  distance = history_fitbit.distance(activity)
+  floors = history_fitbit.floors(activity)
+  steps = history_fitbit.steps(activity)
+  stats[id]['fitbit'] = {
+    '_from':_from,
+    '_to':_to,
+    'distance':distance,
+    'floors':floors,
+    'steps':steps
+  }
+
+def profile():
+  most_active_in = 'twitter'
+  keys1 = sorted(stats[id]['foursquare']['count_checkins'])
+  keys2 = sorted(stats[id]['twitter']['count_statuses'])
+  if stats[id]['foursquare']['count_checkins'][keys1[-1]] > stats[id]['twitter']['count_statuses'][keys2[-1]]:
+    most_active_in = 'foursquare'
+  
+  more_friends_in = 'twitter'
+  keys1 = sorted(stats[id]['foursquare']['count_friends'])
+  keys2 = sorted(stats[id]['twitter']['count_friends'])
+  if stats[id]['foursquare']['count_friends'][keys1[-1]] > stats[id]['twitter']['count_friends'][keys2[-1]]:
+    more_friends_in = 'foursquare'
+
+  if '_' not in stats[id]:
+    stats[id]['_'] = {}
+  stats[id]['_']['most-active-in'] = most_active_in
+  stats[id]['_']['more-friends-in'] = more_friends_in
+
+persons = people.load('/vagrant/data/people.json.pretty')
 
 for id, person in persons.items():
-  print(i)
   stats[id] = {}
   twitter(person['twitter'])
   foursquare(person['foursquare'])
-  
-with open('./stats.json', 'w') as file:
+  fitbit(person['fitbit'])
+  profile()
+
+with open('/vagrant/data/stats.json', 'w') as file:
   json.dump(stats, file, sort_keys=True)

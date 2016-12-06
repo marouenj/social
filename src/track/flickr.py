@@ -7,7 +7,7 @@ since = int(datetime.datetime.strptime(today, '%Y-%m-%d').strftime("%s"))
 api_key = "f84850c3a7c57d2a581ec6aad6eea5e9"
 
 import people
-persons = people.load('/vagrant/data/people.json')
+persons = people.load('/vagrant/data/people.json.pretty')
 
 import json
 import flickr_api

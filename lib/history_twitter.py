@@ -37,3 +37,10 @@ def friends_since_count(activity):
   if 'friends_count' not in activity[last] or 'friends_count' not in activity[first]:
     return None
   return activity[last]['friends_count'] - activity[first]['friends_count']
+
+def photos(activity):
+  photos = {}
+  for k, metrics in activity.items():
+    photos[metrics['profile_background']] = None
+    photos[metrics['profile_image_url']] = None
+  return photos

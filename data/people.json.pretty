@@ -10,6 +10,24 @@
                     "joined": "S\u200ba\u200bc\u200br\u200ba\u200bm\u200be\u200bn\u200bt\u200bo\u200b, C\u200bA\u200b, \u7c73\u200b\u56fd",
                     "location": "S\u200ba\u200bc\u200br\u200ba\u200bm\u200be\u200bn\u200bt\u200bo\u200b, C\u200bA\u200b, \u7c73\u200b\u56fd",
                     "steps-all": "11,678,498"
+                },
+                "2016-12-06": {
+                    "aboutme": "Web developer. Hedonist. Gourmand. Roustabout. Wanderlust King. Philosopher. I build web experiences for the CA State Assembly and selected personal clients.",
+                    "distance-all": "5,685.80",
+                    "floor-all": "7,240",
+                    "height": "6\u2032 2\u2033",
+                    "joined": "S\u200ba\u200bc\u200br\u200ba\u200bm\u200be\u200bn\u200bt\u200bo\u200b, C\u200bA\u200b, \u7c73\u200b\u56fd",
+                    "location": "S\u200ba\u200bc\u200br\u200ba\u200bm\u200be\u200bn\u200bt\u200bo\u200b, C\u200bA\u200b, \u7c73\u200b\u56fd",
+                    "steps-all": "11,688,403"
+                },
+                "2016-12-07": {
+                    "aboutme": "Web developer. Hedonist. Gourmand. Roustabout. Wanderlust King. Philosopher. I build web experiences for the CA State Assembly and selected personal clients.",
+                    "distance-all": "5,691.38",
+                    "floor-all": "7,246",
+                    "height": "6\u2032 2\u2033",
+                    "joined": "S\u200ba\u200bc\u200br\u200ba\u200bm\u200be\u200bn\u200bt\u200bo\u200b, C\u200bA\u200b, \u7c73\u200b\u56fd",
+                    "location": "S\u200ba\u200bc\u200br\u200ba\u200bm\u200be\u200bn\u200bt\u200bo\u200b, C\u200bA\u200b, \u7c73\u200b\u56fd",
+                    "steps-all": "11,701,051"
                 }
             },
             "url": "http://fitbit.com/user/22CK8B"
@@ -18,17 +36,107 @@
             "_activity": {
                 "2016-12-05": {
                     "photos": []
+                },
+                "2016-12-06": {
+                    "photos": []
+                },
+                "2016-12-07": {
+                    "photos": []
                 }
             },
             "id": "39873962@N08"
         },
-        "linkedin": {
+        "foursquare": {
             "_activity": {
-                "2016-12-05": {
-                    "url-photo": null
+                "2016-12-06": {
+                    "bio": "Web developer. Hedonist. Gourmand. Roustabout. Wanderlust King. Philosopher.  I build web experiences for the CA State Assembly and selected personal clients.",
+                    "checkins_count": 12049,
+                    "friends_count": 239,
+                    "home_city": "Sacramento, CA",
+                    "lists_count": 18,
+                    "mayorships_count": 0,
+                    "photo": {
+                        "prefix": "https://irs0.4sqi.net/img/user/",
+                        "suffix": "/151172-ADG4CR0TSJALQZ4E.jpg"
+                    },
+                    "tips": [],
+                    "tips_count": 76,
+                    "todo_count": 86,
+                    "venuelikes_count": 0
+                },
+                "2016-12-07": {
+                    "bio": "Web developer. Hedonist. Gourmand. Roustabout. Wanderlust King. Philosopher.  I build web experiences for the CA State Assembly and selected personal clients.",
+                    "checkins_count": 12049,
+                    "friends_count": 239,
+                    "home_city": "Sacramento, CA",
+                    "lists_count": 18,
+                    "mayorships_count": 0,
+                    "photo": {
+                        "prefix": "https://irs0.4sqi.net/img/user/",
+                        "suffix": "/151172-ADG4CR0TSJALQZ4E.jpg"
+                    },
+                    "tips": [],
+                    "tips_count": 76,
+                    "todo_count": 86,
+                    "venuelikes_count": 0
                 }
             },
-            "url": "https://www.linkedin.com/in/larryconlin"
+            "_last_activity": "2016-12-07",
+            "id": "151172"
+        },
+        "twitter": {
+            "_activity": {
+                "2016-12-06": {
+                    "favourites_count": 267,
+                    "followers_count": 965,
+                    "friends_count": 1760,
+                    "listed_count": 79,
+                    "profile_background": "http://pbs.twimg.com/profile_background_images/518093956064616448/pLiDIPVN.jpeg",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/745012496172482560/65-deIh-_normal.jpg",
+                    "statuses_count": 17427,
+                    "tweets": [
+                        "803814013759062016",
+                        "803828470845493249",
+                        "804133023377604612",
+                        "804545037593874432",
+                        "804719038840631297",
+                        "804772845922435072",
+                        "805158808435720192",
+                        "805214704654225408",
+                        "805542791313059841",
+                        "805813755233718272",
+                        "805830291784810496",
+                        "805843768653922304",
+                        "805848331184390145",
+                        "805873085404459008",
+                        "805898802632589312",
+                        "805927558298664960",
+                        "805934910569476097",
+                        "805961905701527552",
+                        "805965408436125697",
+                        "805971984945278976"
+                    ]
+                },
+                "2016-12-07": {
+                    "favourites_count": 267,
+                    "followers_count": 965,
+                    "friends_count": 1760,
+                    "listed_count": 80,
+                    "profile_background": "http://pbs.twimg.com/profile_background_images/518093956064616448/pLiDIPVN.jpeg",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/745012496172482560/65-deIh-_normal.jpg",
+                    "statuses_count": 17433,
+                    "tweets": [
+                        "806163646048940033",
+                        "806192997989761025",
+                        "806222387762954240",
+                        "806230581319176192",
+                        "806234866530525184",
+                        "806272446903029760"
+                    ]
+                }
+            },
+            "id": "10449052",
+            "since_id": "806272446903029760"
         }
     }
 }
